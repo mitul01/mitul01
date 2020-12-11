@@ -2,124 +2,20 @@
 
 <!--
 **mitul01/mitul01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>
-  <a href=""><img width="150" align='right' src=""></a>
-</p>
-
-<p align='center'>
-<a href=""><img height="30" src=""></a>&nbsp;&nbsp;
-<a href=""><img height="30" src=""></a>&nbsp;&nbsp;
-<a href=""><img height="30" src=""></a>&nbsp;&nbsp;
-<a href=""><img height="30" src=""></a>
-<a href=""><img height="30" src=""></a>
-</p>
 
 Hey there 👋,
-
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others a public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, please feel free to send a [tip](https://www.buymeacoffee.com/bBdtMQO), give me a shout out [@_waylonwalker](https://twitter.com/TandonMitul).
-
-
-  ---
- 
- <p>
-  <img width="250" align='left' src="">
-</p>
- 
-### Boy Scout Rule
-
-I love open source.  I am not a heavy maintainer of any large libraries, but I really like the boyscout rule.  I contribute to things as I come across issues that I think other people might struggle with.  This may be things that are overlooked by someone who is deep into the library.  I 💕 a good onboarding readme with good example.
-
- ---
-
 <p>
-  <a href=""><img width="300" align='right' src=""></a>
+For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.
+
+My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization , basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
+
+Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection.
+
+Programming languages Experience :- C, C++ , Python
+Framework and libraries :- Pandas , NumPy , scikit-learn 0.23.2 , SciPy , Tensorflow(1.x) , Keras
+
+Side Skills :- 1) Technical Writing
+2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly )
+3) Graphic Designing ( Software's/Tools - Adobe Photoshop , Illustrator , Canva )
+
 </p>
-
-### My Digital Garden 🌱
-
-I write regular blog posts, most of which you will find on my personal website [waylonwalker.com](https://waylonwalker.com) and [dev.to/waylonwalker](https://dev.to/waylonwalker).
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
-
-[Latest Post 👉](https://waylonwalker.com/latest)
-
-<details>
- <summary><strong>other favorite posts</strong></summary>
- <a href="https://waylonwalker.com/blog/eight-years-cat/"><img width="400" src="https://waylonwalker.com/eight-years-cat.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/keyboard-driven-vscode/"><img width="400" src="https://waylonwalker.com/alt%20b.png?raw=true"></a>
- <a href="https://waylonwalker.com/blog/what-are-github-actions/"><img width="400" src="https://waylonwalker.com/what-are-github-actions.png?raw=true"></a>
- 
-</details>
-
-💌 Sign up for my [newsletter](https://waylonwalker.com/newsletter/)
-
----
-
-### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
-
-
-<!--
-## <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers _258_
-
-<a href='https://twitter.com/natterstefan'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1255562113629802498/nTk-e7L5_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/natterstefan'>
-    Stefan Natter 🇦🇹👋🏻
-</a>
-
-I am interested in and talking about JavaScript, ReactJS, CSS, and Software Engineering ♥️ | 📧 https://t.co/Jpwh9TFgNx (🐈🐈 🤵👰🏻 🇦🇹)
-
-<h2></h2><a href='https://twitter.com/commanderquest'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1243185628864528384/eFnPWZyC_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/commanderquest'>
-    Commander Quest
-</a>
-
-On a mission to the furthest frontiers of tech and talent. 
-Follow my adventures at Club Freelance's Mission Control Center 👉 https://t.co/D4k36nU2at
-
-<h2></h2><a href='https://twitter.com/benjaminwardcom'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1283469746055385088/sr9ZExwG_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/benjaminwardcom'>
-    Benjamin Ward
-</a>
-
-software engineer, dev coach, Star Wars fanatic, learning enthusiast, host of the Download Knowledge Podcast https://t.co/V2bIR93cQW
-
-<h2></h2><a href='https://twitter.com/tucker_dev'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284727066160705536/VhioFBZE_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/tucker_dev'>
-    James Tucker
-</a>
-
-software engineer at @soonastudios. career switcher. vue + rails. tweeting about tech, books, startups, and big ideas. writing @ https://t.co/SPyap1XFWD. he/him
-
-<h2></h2><a href='https://twitter.com/BenGuthmiller'>
-  <img style="border-radius:50%" align="left" src='https://pbs.twimg.com/profile_images/1284966756906409984/MR0a9hi2_normal.jpg' />
-</a>
-
-<a href='https://twitter.com/BenGuthmiller'>
-    Ben Guthmiller
-</a>
-
-Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investor | Tweets are my own opinions
-
-<h2></h2>
--->
-<p align='center'>
-<!-- <img align='center' src="https://visitor-badge.glitch.me/badge?page_id=waylonwalker.visitor-badge"> -->
- <p/>
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
-		<img src="follower.svg" width="800" height="140">
-	</a>
-</div>
