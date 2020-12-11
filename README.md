@@ -6,8 +6,8 @@
 <p> My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization ,basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
 Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection. </p>
 </div>
-<h3> Programming languages Experience:</h3>
 <div style="inline">
+<h3> Programming languages Experience:</h3>
 <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50px" height="50px">
