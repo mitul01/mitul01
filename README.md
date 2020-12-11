@@ -6,7 +6,7 @@
 <p> My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization ,basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
 Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection. </p>
 </div>
-#### Programming languages Experience : C,C++,Python
+<h3> Programming languages Experience : C,C++,Python </h3>
 
 ### Libraries Used :- 
 <div style="inline">
