@@ -1,11 +1,12 @@
 ### Hi there 👋
-
+<div style="inline">
+<img src="https://icon-library.com/images/ai-icon/ai-icon-7.jpg">
 <p> For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.</p>
-
-<p>My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization , basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
+</div>
+<p> My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization ,basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
 Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection. </p>
 
-### Programming languages Experience :- C, C++ , Python
+#### Programming languages Experience : C,C++,Python
 
 ### Libraries Used :- 
 <div style="inline">
