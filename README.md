@@ -5,9 +5,11 @@
 Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection. </p>
 
 <h2>Programming languages Experience :- C, C++ , Python </h2>
+<div style="inline">
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+</div>
 <p>Framework and libraries :- Pandas , NumPy , scikit-learn 0.23.2 , SciPy , Tensorflow(1.x) , Keras<p>
 <p>Side Skills :- 1) Technical Writing
 2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly )
