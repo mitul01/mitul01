@@ -2,8 +2,6 @@
 
 <!--
 **mitul01/mitul01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light-holiday.png)](https://waylonwalker.com)
-
 <p>
   <a href=""><img width="150" align='right' src=""></a>
 </p>
@@ -15,9 +13,6 @@
 <a href=""><img height="30" src=""></a>
 <a href=""><img height="30" src=""></a>
 </p>
-
-
-
 
 Hey there 👋,
 
@@ -128,7 +123,3 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
 		<img src="follower.svg" width="800" height="140">
 	</a>
 </div>
-
-## Stargazers
-
-[![Stargazers repo roster for @waylonwalker/waylonwalker](https://reporoster.com/stars/waylonwalker/waylonwalker)](https://github.com/waylonwalker/waylonwalker/stargazers)
