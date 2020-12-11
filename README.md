@@ -1,6 +1,6 @@
 <div style="inline">
-### Hi there 👋
-<img src="https://icon-library.com/images/ai-icon/ai-icon-7.jpg" width="500px" height="500px">
+ <h1> Hi there 👋 </h1>
+<img src="https://icon-library.com/images/ai-icon/ai-icon-7.jpg" width="200px" height="200px">
  </div>
 <p> For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.</p>
   
