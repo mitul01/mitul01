@@ -1,4 +1,4 @@
-<div style="inline>
+<div style="inline">
 ### Hi there 👋
 <img src="https://icon-library.com/images/ai-icon/ai-icon-7.jpg" width="500px" height="500px">
  </div>
