@@ -5,7 +5,7 @@
 Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection. </p>
 
 <h2>Programming languages Experience :- C, C++ , Python </h2>
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fhow-to-create-numpy-arrays-from-scratch-3e0341f9ffea&psig=AOvVaw3P3W8JpTXpSobiZkSfzs1F&ust=1607799847386000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCeuqjPxu0CFQAAAAAdAAAAABAN">
 <p>Framework and libraries :- Pandas , NumPy , scikit-learn 0.23.2 , SciPy , Tensorflow(1.x) , Keras<p>
 <p>Side Skills :- 1) Technical Writing
 2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly )
