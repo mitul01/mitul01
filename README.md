@@ -3,8 +3,7 @@
 <!--
 **mitul01/mitul01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Hey there 👋,
-For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.
+Hey there 👋,For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.
 
 My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization , basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
 
