@@ -12,7 +12,7 @@ Programming languages Experience:
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="25px" height="25px">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="25px" height="25px">
 </p>
-Libraries Used: 
+# Libraries Used: 
 <p style="inline">
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
