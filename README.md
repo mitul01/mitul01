@@ -7,7 +7,7 @@
 Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection. </p>
 </div>
 <div style="inline">
-<h2>Programming languages Experience</h2>
+Programming languages Experience: 
 <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50px" height="50px">
