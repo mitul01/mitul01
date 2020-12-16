@@ -11,14 +11,14 @@ Programming languages Experience: <br>
 <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50px" height="50px">
-</p>
+
 <div style="inline">
 <h2>Libraries Used</h2>
 <div style="inline">
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-</div>
+</div></p>
 <p>Framework and libraries :- Pandas , NumPy , scikit-learn 0.23.2 , SciPy , Tensorflow(1.x) , Keras<p>
 <p>Side Skills :- 1) Technical Writing
 2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly )
