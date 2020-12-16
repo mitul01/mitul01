@@ -6,21 +6,20 @@
 <p> My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization ,basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
 Currently exploring the field of Deep learning. Have had keen interest in Computer Vision and Object Detection. </p>
 </div>
+
 <p style="inline">
+
 Programming languages Experience: 
-<div style="inline"> 
 <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="25px" height="25px">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="25px" height="25px">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="25px" height="25px">
-</div>
 Libraries Used: 
-<div style="inline">
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
-</div>
 
 </p>
+
 <p>Framework and libraries :- Pandas , NumPy , scikit-learn 0.23.2 , SciPy , Tensorflow(1.x) , Keras<p>
 <p>Side Skills :- 1) Technical Writing
 2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly )
