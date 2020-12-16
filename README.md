@@ -25,7 +25,8 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 </p>
 
 <p>Framework and libraries :- Pandas , NumPy , scikit-learn 0.23.2 , SciPy , Tensorflow(1.x) , Keras<p>
-<p>Side Skills :- <br> 
+<p>Side Skills :- 
+<br> 
 1) Technical Writing <br>
 2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly ) <br> 
 3) Graphic Designing ( Software's/Tools - Adobe Photoshop , Illustrator , Canva ) <br> 
