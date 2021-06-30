@@ -14,6 +14,7 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 <img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50px" height="50px">
+<img src="https://www.r-project.org/logo/Rlogo.png" width="50px" height="50px">  
 </div>
 
 ## Libraries Used: 
@@ -21,6 +22,7 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png">
 </div>
 </p>
 
@@ -30,6 +32,13 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 1) Technical Writing <br>
 2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly ) <br> 
 3) Graphic Designing ( Software's/Tools - Adobe Photoshop , Illustrator , Canva ) <br> 
+</p>
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=mitul01&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul01&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=mitul01&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 </p>
 <!--
 **mitul01/mitul01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
