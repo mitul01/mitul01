@@ -19,10 +19,10 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 
 ## Libraries Used: 
 <div style="inline">
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="50px" height="50px">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="50px" height="50px">
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="50px" height="50px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="50px" height="50px">
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="70px" height="50px">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="70px" height="50px">
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="50px" height="70px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="70px" height="50px">
 </div>
 </p>
 
@@ -33,6 +33,7 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 2) Website Development ( Backend - Flask Framework | Front end for ML - Plotly ) <br> 
 3) Graphic Designing ( Software's/Tools - Adobe Photoshop , Illustrator , Canva ) <br> 
 </p>
+<h1> Github Stats </h1>
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=mitul01&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=mitul01&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
