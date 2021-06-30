@@ -18,7 +18,6 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 </div>
 
 ## Technologies Used: 
-<div style="inline">
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -52,9 +51,9 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 <p>Framework and libraries :- Pandas , NumPy , scikit-learn 0.23.2 , SciPy , Tensorflow(1.x) , Keras<p>
   
 ## Contact Me:
-[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitul-tandon-240842177/)](https://www.linkedin.com/in/mitul-tandon-240842177/)
-[![Medium Badge](https://img.shields.io/badge/-@aemmadi-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mitultandon)](https://medium.com/@mitultandon)
-[![Gmail Badge](https://img.shields.io/badge/-kanna6501@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitultandon@gmail.com)](mailto:mitultandon@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-mitultandon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitul-tandon-240842177/)](https://www.linkedin.com/in/mitul-tandon-240842177/)
+[![Medium Badge](https://img.shields.io/badge/-@mitultandon-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@mitultandon)](https://medium.com/@mitultandon)
+[![Gmail Badge](https://img.shields.io/badge/-mitultandon@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mitultandon@gmail.com)](mailto:mitultandon@gmail.com)
   
 <!-- <p>Side Skills :- 
 <br> 
