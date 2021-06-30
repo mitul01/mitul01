@@ -1,6 +1,6 @@
 <div style="inline">
 <h1> Hi there 👋 </h1>
-<img src="https://yyb7613mjr31k8vxr4692ftk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/d6aa5176-statistics-for-data-science-courses.gif" width="400px" height="400px" align="right">
+<img src="https://yyb7613mjr31k8vxr4692ftk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/d6aa5176-statistics-for-data-science-courses.gif" width="400px" height="300px" align="right">
 <p> For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.</p>
   
 <p> My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization ,basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
