@@ -1,6 +1,6 @@
 <div style="inline">
 <h1> Hi there 👋 </h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fgeneral%2F123154&psig=AOvVaw0PYM48S5W9mng21UKwWHMx&ust=1625145691314000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDUg9K5v_ECFQAAAAAdAAAAABAD" width="200px" height="200px" align="right">
+<img src="https://yyb7613mjr31k8vxr4692ftk-wpengine.netdna-ssl.com/wp-content/uploads/2020/09/d6aa5176-statistics-for-data-science-courses.gif" width="200px" height="200px" align="right">
 <p> For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.</p>
   
 <p> My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization ,basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
@@ -19,10 +19,10 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 
 ## Libraries Used: 
 <div style="inline">
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="70px" height="50px">
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="70px" height="50px">
-<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="50px" height="70px">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="70px" height="50px">
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" width="100px" height="50px">
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg" width="100px" height="50px">
+<img src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" width="100px" height="50px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/1280px-Pandas_logo.svg.png" width="100px" height="50px">
 </div>
 </p>
 
