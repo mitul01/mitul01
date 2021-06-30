@@ -1,6 +1,6 @@
 <div style="inline">
 <h1> Hi there 👋 </h1>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fkanger.dev%2Fstack%2Fstatistics-for-data-science-courses%2F&psig=AOvVaw1T7ZxteLDn59p1ZFs9RuL5&ust=1625145563448000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNC-8ZS5v_ECFQAAAAAdAAAAABAD" width="200px" height="200px" align="right">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fgeneral%2F123154&psig=AOvVaw0PYM48S5W9mng21UKwWHMx&ust=1625145691314000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDUg9K5v_ECFQAAAAAdAAAAABAD" width="200px" height="200px" align="right">
 <p> For some people data is just facts or numerical values. For me data is a puzzle. When looked at it correctly it never fails to tell something stunning. I love to work with data whether be it manipulation , analyzation or visualization.</p>
   
 <p> My specialties include undying curiosity and constant handwork. After discovering my passion for Data Science , I gathered skills in data analytics and visualization ,basics of statistical and mathematical inferences. Followed by Machine learning Algorithms. I have rigorously practiced my skills in various projects and hackathons.
