@@ -16,7 +16,7 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50px" height="50px">
 <img src="https://www.r-project.org/logo/Rlogo.png" width="50px" height="50px">  
 <img src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" width="50px" height="50px">  
-<img src="https://banner2.cleanpng.com/20190623/uxe/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d6871765.6875406615612738145533.jpg" width="50px" height="50px">    
+<img src="https://cpng.pikpng.com/pngl/s/204-2047555_datei-java-logo-svg-java-logo-svg-clipart.png" width="50px" height="50px">    
 </div>
 
 ## Technologies Used: 
