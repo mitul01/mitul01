@@ -18,10 +18,7 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 </div>
 
 ## Technologies Used: 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -39,8 +36,10 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![Anaconda](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=Anaconda)
+![Tensorflow](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=Tensorflow)
+![Keras](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=Keras)
+![OpenCV](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=OpenCV)
 </p>
 
 ## Contact Me:
