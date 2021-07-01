@@ -11,10 +11,12 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 
 ## Programming languages Experience: 
 <div style="inline">
-<img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="50px" height="50px" padding="2px">
+<img src="https://seeklogo.com/images/C/c-logo-1B1817C041-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" width="50px" height="50px">
 <img src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" width="50px" height="50px">
 <img src="https://www.r-project.org/logo/Rlogo.png" width="50px" height="50px">  
+<img src="https://banner2.cleanpng.com/20180703/yrf/kisspng-matlab-simulink-signal-processing-programming-lang-cube-island-online-survival-3d-5b3b394d2f1946.2068935715306079491929.jpg" width="50px" height="50px">  
+<img src="https://banner2.cleanpng.com/20190623/uxe/kisspng-logo-java-development-kit-portable-network-graphic-5d0f25d6871765.6875406615612738145533.jpg" width="50px" height="50px">    
 </div>
 
 ## Technologies Used: 
@@ -42,6 +44,7 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 ![OpenCV](https://img.shields.io/badge/-OpenCV-green?style=flat-square&logo=OpenCV)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-red?style=flat-square&logo=Pycharm)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Linux)
+![Flask](https://img.shields.io/badge/-Flask-yellow?style=flat-square&logo=Flask)
 </p>
 
 ## Contact Me:
