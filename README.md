@@ -36,10 +36,10 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Anaconda](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=Anaconda)
-![Tensorflow](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=Tensorflow)
-![Keras](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=Keras)
-![OpenCV](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=OpenCV)
+![Anaconda](https://img.shields.io/badge/-Anaconda-darkblue?style=flat-square&logo=Anaconda)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-darkblue?style=flat-square&logo=Tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-darkblue?style=flat-square&logo=Keras)
+![OpenCV](https://img.shields.io/badge/-OpenCV-darkblue?style=flat-square&logo=OpenCV)
 </p>
 
 ## Contact Me:
