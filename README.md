@@ -38,7 +38,7 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-darkblue?style=flat-square&logo=Anaconda)
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-darkgreen?style=flat-square&logo=Tensorflow)
-![Keras](https://img.shields.io/badge/-Keras-darkpink?style=flat-square&logo=Keras)
+![Keras](https://img.shields.io/badge/-Keras-grey?style=flat-square&logo=Keras)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-green?style=flat-square&logo=OpenCV)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-red?style=flat-square&logo=Pycharm)
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=flat-square&logo=Linux)
