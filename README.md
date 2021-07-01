@@ -21,6 +21,13 @@ Currently exploring the field of Deep learning. Have had keen interest in Comput
 
 ## Technologies Used: 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Pandas](https://img.shields.io/badge/-Pandas-green?style=flat-square&logo=Pandas)
+![Numpy](https://img.shields.io/badge/-Numpy-grey?style=flat-square&logo=Numpy)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-red?style=flat-square&logo=Matplotlib)
+![Seaborn](https://img.shields.io/badge/-Seaborn-red?style=flat-square&logo=Seaborn)
+![Sklearn](https://img.shields.io/badge/-Sklearn-black?style=flat-square&logo=Sklearn)
+![Plotly](https://img.shields.io/badge/-Plotly-blue?style=flat-square&logo=Plotly)
+![Dash](https://img.shields.io/badge/-Dash-black?style=flat-square&logo=Dash)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
