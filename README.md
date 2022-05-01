@@ -1,6 +1,6 @@
 <div style="inline">
+ <img src="https://user-images.githubusercontent.com/46290944/166142789-5a8619e1-7693-4c12-8e2b-ac7e0de97f74.png" width="400px" height="220px" align="right">
 <h1> Hi there 👋 </h1>
-<img src="https://user-images.githubusercontent.com/46290944/166142789-5a8619e1-7693-4c12-8e2b-ac7e0de97f74.png" width="400px" height="220px" align="right">
 <p> 
 🐍 Pythonista <br>
 👨‍💻 A Passionate programmer <br>
